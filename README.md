@@ -35,5 +35,6 @@ Este projeto é um jogo de Batalha Naval desenvolvido em Java como parte do meu 
    ```bash
    java trabalhoFinal
 
-## Autor:
-Desenvolvido por Paulo Amorim(Paulo88)
+## Autor
+
+Desenvolvido por Paulo Amorim(https://github.com/Paulo88).
