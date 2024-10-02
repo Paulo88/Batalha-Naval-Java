@@ -28,10 +28,12 @@ Este projeto é um jogo de Batalha Naval desenvolvido em Java como parte do meu 
    git clone https://github.com/Paulo88/Batalha-Naval-Java.git
 
 2. Compile o projeto:
+   ```bash
    javac trabalhoFinal.java
 
 3. Execute o jogo:
-java trabalhoFinal
+   ```bash
+   java trabalhoFinal
 
-Autor: 
+## Autor:
 Desenvolvido por Paulo Amorim(Paulo88)
