@@ -37,4 +37,4 @@ Este projeto é um jogo de Batalha Naval desenvolvido em Java como parte do meu 
 
 ## Autor
 
-Desenvolvido por Paulo Amorim(https://github.com/Paulo88).
+Desenvolvido por [Paulo Amorim](https://github.com/Paulo88).
